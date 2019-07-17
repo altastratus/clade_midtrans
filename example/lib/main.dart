@@ -45,7 +45,7 @@ class _MyAppState extends State<MyApp> {
     };
 
     flutterWrapper.initMidtransSdk(
-       'Mid-client-OwCg54VkH2B7y_Bzr', 'https://development.musteat.id/api/midtrans/',
+       'ClientKey', 'Merchant_URL',
         isSandbox: true);
   }
 
